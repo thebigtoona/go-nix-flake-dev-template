@@ -22,3 +22,7 @@ this is a template for developing go apps while using nix or being on nixos
 - `nix build` - build the package
 - `nix run` - build and run the package
 - `nix develop` - enter go dev env
+
+### License:
+
+This work is marked with CC0 1.0 Universal
